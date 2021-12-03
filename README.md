@@ -1,0 +1,2 @@
+# -GNN-Practice
+first try
